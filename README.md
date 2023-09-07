@@ -1,7 +1,7 @@
-005. What is good code
+
 /*// BIG O
 It tell us how the problem will be solved 
-
+005. What is good code
 What is good code ? it must be :
 1.Readable
 2.Scalable
