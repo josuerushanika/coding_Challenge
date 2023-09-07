@@ -1,3 +1,5 @@
+  <img src="screen.jpeg" alt="logo" width="140"  height="auto" />
+
 
 /*// BIG O
 It tell us how the problem will be solved 

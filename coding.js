@@ -65,7 +65,14 @@ we can take two different algorithm example f(x) and say which is better than ot
 to scale .
 
 
-<img src="screen.jpeg" alt="logo" width="140"  height="auto" />
+When we talk about big O and Scallabilty of code we simply mean when we go bigger with the output 
+how the algorithm or the function slow down ?  //IMPORTANT !!!
+
+
+According to our array and diagram  of big O
+
+Elements = array when we increase element in array how many operation(in the diagram do we need to do ?) 
+
 
 
 
