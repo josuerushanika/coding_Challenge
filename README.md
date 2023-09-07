@@ -1,4 +1,4 @@
-  <img src="screen.jpeg" alt="logo"  width="400"  height="auto" />
+  <img src="screen.jpeg" alt="logo"  width="600"  height="auto" />
 
 
 
