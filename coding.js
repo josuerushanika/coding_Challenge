@@ -75,6 +75,32 @@ Elements = array when we increase element in array how many operation(in the dia
 
 
 
+3. 007 Video
 
+O(n) -Linear time
+
+
+calculation of BiIG O
+
+function anotherFunChallenge(input) {
+  let a = 5; //O(1)
+  let b = 10; //O(1)
+  let c = 50; //O(1)
+
+  for (let i = 0; i < input; i++){
+    let x = 5; //O(n)
+    let y = 10; //O(n)
+    let z = 50; //O(n)
+  }
+
+  for (let j = 0; j < input; j++) {
+    let p = j * 2; //O(n)
+    let q = j * 2; //O(n)
+  }
+
+  let WhoAmI = "I don't kwon"; //O(1)
+}
+
+BIG O(4 + 5n)
 
 
