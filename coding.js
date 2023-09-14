@@ -73,10 +73,6 @@ According to our array and diagram  of big O
 
 Elements = array when we increase element in array how many operation(in the diagram do we need to do ?) 
 
-
-
-3. 007 Video
-
 O(n) -Linear time
 
 
@@ -101,6 +97,9 @@ function anotherFunChallenge(input) {
   let WhoAmI = "I don't kwon"; //O(1)
 }
 
-BIG O(4 + 5n)
+   Reponse :  BIG O(4 + 5n)
 
+
+
+3. 007 Video
 
