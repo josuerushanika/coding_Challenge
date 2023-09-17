@@ -9,7 +9,6 @@ What is good code ? it must be :
 */
 const nemo = ['nemo'];
 
-
 function findNemo(array) {
   for (let i = 0; i < array.length; i++) {
     if (array[i] === 'nemo') {
@@ -102,5 +101,22 @@ function anotherFunChallenge(input) {
 
 
 
-3. 007 Video
+4. 003 Video
+
+Data Structures
+
+*Arrays       *Trees
+*Stacks       *Tries
+*Queues       * Graphs
+*Linked Lists  * Hash Tables
+
+algorithm
+
+*Sorting
+*Dynamic Programing
+*BFS + DFS (Searching)
+*Recursion
+
+
+4. 006 15'
 
