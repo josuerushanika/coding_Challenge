@@ -120,3 +120,30 @@ algorithm
 
 4. 006 15'
 
+**What is data structure ?
+
+-- Data struture is a collection of value, the value can have relationship among them and f(x)
+apply to them .
+
+which is code is best ?
+
+1. Readable    Space Complexity
+2. Memory      Time Complexity
+3.Speed
+
+--  Reverse String
+
+
+
+function reverse(str) {
+  const backwards = [];
+  const totalItems = str.length -1;
+  for (let i = totalItems; i >= 0; i--) {
+    backwards.push(str[i]);
+  }
+  console.log(backwards);
+
+  return backwards.join('');
+}
+
+reverse ('Hi my name is Andrei')
