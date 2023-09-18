@@ -133,7 +133,7 @@ which is code is best ?
 
 --  Reverse String
 
-
+1.
 
 function reverse(str) {
   const backwards = [];
@@ -147,3 +147,20 @@ function reverse(str) {
 }
 
 reverse ('Hi my name is Andrei')
+
+2.   
+
+function reverse2(str) {
+  return str.split('').reverse().join('')
+}
+
+reverse('Rushanika')
+
+//3. With ES6 Synthax
+
+const reverse3 = str => [...str].reverse().join('');
+
+
+
+
+/**  07 004   Hash Tables  **/
